@@ -1,0 +1,22 @@
+# Core data and ML
+numpy>=1.23
+pandas>=1.5
+scikit-learn>=1.1
+
+# Visualization
+matplotlib>=3.6
+seaborn>=0.12
+
+# Classical statistics
+scipy>=1.9
+statsmodels>=0.13
+
+# Gradient boosting models (Stage 2 / optional Stage 4)
+xgboost>=1.7
+
+# Deep learning (Stage 3)
+tensorflow>=2.12
+keras>=2.12
+
+# Excel support
+openpyxl>=3.1
